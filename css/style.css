@@ -1,0 +1,7 @@
+.miAlbum{
+    border-radius:3px;
+    border: 1px dotted #0f0f0f;
+    padding: 7px 17px 14px;
+    margin-top: 12px;
+    display: none;
+}
