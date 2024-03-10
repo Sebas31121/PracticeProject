@@ -5,3 +5,15 @@
     margin-top: 12px;
     display: none;
 }
+.img .papelera{
+    width: 24px;
+    background-color: white;
+    border: 5px solid red;
+    height: 24px;
+    position: absolute;
+    right: 6px;
+    top: -6px;
+    cursor: pointer;
+    display: none;
+    padding: 8px;
+}
